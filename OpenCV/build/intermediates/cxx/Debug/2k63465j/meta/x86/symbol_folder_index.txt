@@ -1,0 +1,1 @@
+/Users/johy/AndroidStudioProjects/AIoT/OpenCV/build/intermediates/cxx/Debug/2k63465j/obj/x86

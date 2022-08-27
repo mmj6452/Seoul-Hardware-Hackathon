@@ -1,0 +1,1 @@
+/Users/johy/AndroidStudioProjects/AIoT/OpenCV/build/intermediates/cxx/RelWithDebInfo/3n521b3j/obj/x86

@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "/Users/johy/AndroidStudioProjects/AIoT/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -633037290
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/Users/johy/AndroidStudioProjects/AIoT/OpenCV/.cxx/RelWithDebInfo/3n521b3j/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/Users/johy/AndroidStudioProjects/AIoT/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1821331455
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/johy/AndroidStudioProjects/AIoT/OpenCV/libcxx_helper/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -841148125
+  }
+]
